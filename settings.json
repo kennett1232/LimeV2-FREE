@@ -1,0 +1,11 @@
+{
+    "version": 1.004,
+    "advanced-mode": false,
+    "threads": 15,
+    "proxies": false,
+    "onlinetokens (BETTER BYPASS)": true,
+    "usesolver": false,
+    "solvertype (can use: razorcap)": "",
+    "solverapikey": "",
+    "SOLVERSITES": "razorcap >> razorcap.xyz"
+}
